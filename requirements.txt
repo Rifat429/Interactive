@@ -1,0 +1,3 @@
+pip install xlsxwriter
+pip install sklearn
+pip install numpy
